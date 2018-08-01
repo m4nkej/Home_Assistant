@@ -1,16 +1,15 @@
 [connection]
 id=hassos-network
-uuid=97f4abd4-61ea-48f3-b6fa-a277c0a3ce8e
 type=802-11-wireless
 
 [802-11-wireless]
 mode=infrastructure
-ssid=melo
+ssid=melo_inferno
 
 [802-11-wireless-security]
 auth-alg=open
-key-mgmt=wpa2-psk
-psk=fabrykacukierkow
+key-mgmt=wpa-psk
+psk=fabrykaczekolady
 
 [ipv4]
 method=auto
