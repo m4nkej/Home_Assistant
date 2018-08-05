@@ -1,5 +1,6 @@
 [connection]
 id=hassos-network
+uuid=244297fd-2767-4e17-ac6c-1c16cd0f3972
 type=802-11-wireless
 
 [802-11-wireless]
